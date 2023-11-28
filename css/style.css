@@ -119,8 +119,8 @@ p {
 	align-items: center;
 }
 
-.sectionLinearGradientBackground {
-	background: linear-gradient(to right, var(--main-color), var(--second-color));
+.sectionLinearGradientBackground{	
+background: linear-gradient(to right, var(--main-color), var(--second-color));
 }
 
 .whiteContentSection h2,
